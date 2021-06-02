@@ -1,0 +1,44 @@
+[
+	{
+		"country_name": "Russia",
+		"capital": "Moscow",
+		"size": 17125191,
+		"population": 146748590,
+		"currency": "Rouble" 
+	},
+	{
+		"country_name": "USA",
+		"capital": "Washington",
+		"size": 9826675,
+		"population": 332278200,
+		"currency": "US Dollar" 
+	},
+	{
+		"country_name": "UK",
+		"capital": "London",
+		"size": 242495 ,
+		"population": 67886004,
+		"currency": "Pound Sterling"
+	},
+	{
+		"country_name": "Japan",
+		"capital": "Tokyo",
+		"size": 377944,
+		"population": 125480000,
+		"currency": "Yen"
+	},
+	{
+		"country_name": "China",
+		"capital": "Pekin",
+		"size": 9596961,
+		"population": 1442965000,
+		"currency": "Renminbi"
+	},
+	{
+		"country_name": "India",
+		"capital": "New Deli",
+		"size": 3287263,
+		"population": 1381790000,
+		"currency": "Indian rupee"
+	}
+]
